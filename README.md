@@ -1,2 +1,2 @@
 # jogodavelha
-# Jogo da velha utilizando C
+ Jogo da velha utilizando C
